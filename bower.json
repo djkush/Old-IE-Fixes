@@ -1,0 +1,22 @@
+{
+  "name": "Old-IE-Fixes",
+  "version": "0.1.0",
+  "homepage": "https://github.com/djkush/Old-IE-Fixes",
+  "authors": [
+    "Duncan Kendrick <duncan.kendrick@cite.co.uk>"
+  ],
+  "description": "Fixes issues with IE < 9 Comprises of a number of hacks/shims from other developers. Needs including at top of page.",
+  "main": "IE7-8Fixes.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ie",
+    "shim",
+    "shiv",
+    "hack",
+    "ie8",
+    "ie7"
+  ],
+  "license": "MIT"
+}
